@@ -3,10 +3,14 @@
 This project aims to create an drawing app.
 
 # Progress 
-Possibility to paint in Black & White & Clear the Board
+Possibility to paint in Black
+Possibility to login via Facebook
 
 # Next 
-Facebook Login, Only one line to draw with possibility to cancel.
+Only one line then boolean stops the possibility to draw more
+Button to cancel your line drawn if boolean linedrawn is true
+Put together drawn and login
 
-# TODO
-Will create the mvp branch tomorrow
+# Future
+Connect with friends
+Lobby to create new party
