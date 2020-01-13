@@ -3,7 +3,7 @@
 This project aims to create an drawing app.
 
 # Progress 
-Possibility to paint in Black
+Possibility to paint in Black<br/>
 Possibility to login via Facebook
 
 # Next 
